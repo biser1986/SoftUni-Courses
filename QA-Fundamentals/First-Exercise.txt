@@ -1,1 +1,3 @@
 This is my first commit to GitHub!
+
+I'm really happy to study in SoftUni. This course is amaizing. Thank you for everything.
