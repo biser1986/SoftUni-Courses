@@ -3,4 +3,4 @@ I want to make some changes here.
 I'm really happy to study in SoftUni. This course is amaizing. Thank you for everything.
 
 Аз съм батко Биби!
-Now I'm trying to do Git push command. I will do this.
+Now I'm trying to do Git push command. I will do this. I done this command.
