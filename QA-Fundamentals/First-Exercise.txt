@@ -4,3 +4,4 @@ I'm really happy to study in SoftUni. This course is amaizing. Thank you for eve
 I will take my exam with great grade.
 Аз съм батко Биби!
 Today I want to make another commit in GitHub.
+I'm sure that I will push one more commit.
