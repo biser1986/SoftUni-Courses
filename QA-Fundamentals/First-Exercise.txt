@@ -5,4 +5,3 @@ I will take my exam with great grade.
 Аз съм батко Биби!
 Today I want to make another commit in GitHub.
 I'm sure that I will push one more commit.
-This is my GitHub Token which is valid to 27 December: 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
